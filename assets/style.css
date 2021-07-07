@@ -1,1 +1,170 @@
+
+.wrapper
+
+{
+
+    max-width: 1440px;
+    margin: 0 auto;
+    position: relative;
+
+}
+
+.logo
+
+
+{
+    width: 206px;
+    height: 101. 76px;
+}
+
+.brg
+
+{
+    width: 20px;
+    height: 16px;
+  float: right;
+  margin-top: 3%;
+  margin-right: 30px;
+
+}
+
+.sect1
+{
+    background-image: url(./images/Rectangle\ 48\ \(1\).png);
+    width: 1440px;
+    height: 619px;
+    
+}
+
+.f
+
+{
+    
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 36px;
+    /* identical to box height, or 150% */
+    
+    text-align: center;
+    letter-spacing: 0.1px;
+    
+    color: #F7F7F7;
+    position: absolute;
+    bottom: 88.96%;
+    left: 44.08%;
+    right: 44.08%;
+    top: 20%;
+
+}
+
+.w
+
+{
+
+
+font-family: Poppins;
+font-style: normal;
+font-weight: bold;
+font-size: 58px;
+line-height: 80px;
+/* or 138% */
+
+text-align: center;
+letter-spacing: 0.2px;
+
+color: #FFFFFF;
+
+}
+
+.wrap
+
+{
+    position: absolute;
+    width: 937px;
+    height: 160px;
  
+    top: 25%;
+     left: 20%;
+   
+    
+}
+
+.text3
+
+{
+    position: absolute;
+left: 12.23%;
+right: 12.09%;
+top: 55%;
+
+
+/* H4 */
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 38px;
+/* identical to box height, or 158% */
+
+text-align: center;
+letter-spacing: 0.2px;
+
+color: #F7F7F7;
+
+}
+
+.btns
+
+{
+    display: inline-block;
+   
+    margin-top: 26%;
+    margin-left: 35%;    
+    padding: 36px 0px;
+ 
+    
+    
+
+
+}
+
+.Pl
+{
+
+    width: 236px;
+    height: 68px;
+    background: #FA4A0C;
+box-shadow: 0px 10px 30px rgba(183, 50, 39, 0.2);
+border-radius: 30px;
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 36px;
+border: none;
+
+letter-spacing: 0.1px;
+
+
+
+color: #FFFFFF;
+
+}
+
+.Ap
+{
+    width: 236px;
+    height: 68px;
+    border: 1px solid white;
+    border-radius: 30px;
+    background-color: transparent;
+    color: white;
+    font-size: 24px;
+line-height: 36px;
+font-family: Montserrat;
+margin-left: 30px;
+}
+
